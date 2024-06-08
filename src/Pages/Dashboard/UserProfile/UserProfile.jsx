@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 // import { useEffect } from "react";
 
 const UserProfile = () => {
-  const [loggedInUser, refetch, isLoading] = useProfile();
+  const [loggedInUser,  isLoading] = useProfile();
 
   // useEffect(() => {
   //   refetch();
