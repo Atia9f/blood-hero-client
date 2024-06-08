@@ -1,0 +1,14 @@
+.failure-button {
+    background: linear-gradient(to right, #9F3551, #7F2C44, #4C1C29, #000000);
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+  }
+  
+  .failure-button:hover {
+    background: linear-gradient(to right, #000000, #4C1C29, #7F2C44, #9F3551);
+  }
