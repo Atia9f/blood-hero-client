@@ -124,7 +124,7 @@ const SearchPage = () => {
             </Select>
           </div>
 
-          <Button className="w-full failure-button" type="submit" gradientMonochrome="failure">
+          <Button className="w-full failure-button" type="submit">
             Search Donor
           </Button>
         </form>
