@@ -256,7 +256,7 @@ const UpdateDonationRequest = () => {
             />
           </div>
 
-          <Button className="w-full failure-button" type="submit" gradientMonochrome="failure">
+          <Button className="w-full failure-button" type="submit" >
             Update Request
           </Button>
         </form>
