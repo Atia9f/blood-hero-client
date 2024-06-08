@@ -26,7 +26,7 @@ const AdminHome = () => {
           {/* total users */}
           <div className="flex items-center gap-5 bg-gradient-to-r from-red-200 to-red-400 p-4 rounded-md">
             <div>
-              <FaUsers className="text-5xl text-[#ff5441]"></FaUsers>
+              <FaUsers className="text-5xl text-[#9F3551]"></FaUsers>
             </div>
             <div>
               <h2 className="text-xl">Total Users</h2>
@@ -36,7 +36,7 @@ const AdminHome = () => {
           {/* total donation request */}
           <div className="flex items-center gap-5 bg-gradient-to-r from-red-200 to-red-400 p-4 rounded-md">
             <div>
-              <BiSolidDonateBlood className="text-5xl text-[#ff5441]"></BiSolidDonateBlood>
+              <BiSolidDonateBlood className="text-5xl text-[#9F3551]"></BiSolidDonateBlood>
             </div>
             <div>
               <h2 className="text-xl">Total Donation Request</h2>
@@ -46,7 +46,7 @@ const AdminHome = () => {
           {/* total users */}
           <div className="flex items-center gap-5 bg-gradient-to-r from-red-200 to-red-400 p-4 rounded-md">
             <div>
-              <RiRefund2Line className="text-5xl text-[#ff5441]"></RiRefund2Line>
+              <RiRefund2Line className="text-5xl text-[#9F3551]"></RiRefund2Line>
             </div>
             <div>
               <h2 className="text-xl">Total Fundings</h2>
