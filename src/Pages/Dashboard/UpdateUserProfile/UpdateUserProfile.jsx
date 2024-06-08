@@ -166,7 +166,7 @@ const UpdateUserProfile = () => {
               ))}
             </Select>
           </div>
-          <Button className="w-full failure-button" type="submit" gradientMonochrome="failure">
+          <Button className="w-full failure-button" type="submit">
             Update{" "}
             {btnLoading && (
               <span className="ms-4">
