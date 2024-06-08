@@ -3,7 +3,7 @@ import usePendingRequest from "../../hooks/usePendingRequest";
 import { Link } from "react-router-dom";
 
 const DonationRequest = () => {
-  const [pendingRequest, refetch, isPending] = usePendingRequest();
+  const [pendingRequest, isPending] = usePendingRequest();
   // console.log(pendingRequest);
 
   return (
