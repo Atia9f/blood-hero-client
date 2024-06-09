@@ -2,6 +2,10 @@
 
 **Live Link:** [https://bloodheros-b8-a12.web.app/](https://bloodheros-b8-a12.web.app/)
 
+# Admin Email and Pass: 
+ - admin@gmail.com
+ - Admin@123
+
 # Features and Functionalities
 
 ## Role Specific Dashboards:
