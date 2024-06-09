@@ -1,6 +1,6 @@
 # Blood Heros
 
-**Live Link:** [https://bloodheros-b8-a12.web.app/](https://bloodheros-b8-a12.web.app/)
+**Live Link:** [https://assignment-12-58f27.web.app/](https://assignment-12-58f27.web.app/)
 
 # Admin Email and Pass: 
  - admin@gmail.com
